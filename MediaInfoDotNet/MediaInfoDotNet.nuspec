@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
+    <id>Spotlight.MediaInfoDotNet</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>Charles Burns, Carsten Schlote</authors>
@@ -10,8 +10,9 @@
     <iconUrl>http://mediainfo.sourceforge.net/_/Image/Default/Logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <summary>$description$</summary>
-    <description>MediaInfo.NET provides a fast, easy-to-use .NET wrapper for MediaInfo.dll. 
- It abstracts the calls to the underlaying native DLL and provides strongly typed fields for each kind of media stream within a file.
+    <description>
+      SPOTLIGHT FORK of MediaInfo.NET. MediaInfo.NET provides a fast, easy-to-use .NET wrapper for MediaInfo.dll.
+      It abstracts the calls to the underlaying native DLL and provides strongly typed fields for each kind of media stream within a file.
     </description>
     <releaseNotes>
       - Upstream https://code.google.com/p/mediainfo-dot-net/
